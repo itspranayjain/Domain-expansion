@@ -1,2 +1,2 @@
 print("Domain expansion")
-uu itch tin kai
+print("uu itch tin kai")
